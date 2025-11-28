@@ -63,7 +63,7 @@ export default function VerifyCode() {
 
   return (
     <div className="flex h-dvh w-full items-center justify-center overflow-hidden bg-[rgba(99,63,187,0.10)] p-4 md:p-16 lg:h-screen">
-      <div className="flex w-full max-w-[686px] flex-col rounded-3xl bg-white px-6 py-12 sm:px-12 md:px-20 md:py-16 lg:px-[122px] lg:py-[60px]">
+      <div className="lg:h-dhv flex h-screen w-full max-w-[686px] flex-col rounded-3xl bg-white px-6 py-12 sm:px-12 md:px-20 md:py-16 lg:px-[122px] lg:py-[60px]">
         <div className="mb-12 lg:mb-[68px]">
           <h1 className="text-2xl font-bold text-black">Auth-flow</h1>
         </div>

@@ -11,7 +11,7 @@ export default function Dashboard() {
       <Navbar />
 
       {/* Main Content Container */}
-      <div className="rounded-3xl bg-[#F9FAFB] px-6 pt-12 md:px-16 md:py-12">
+      <div className="rounded-3xl bg-[#F9FAFB] px-6 py-12 md:px-16 md:py-12">
         <div className="mx-auto flex max-w-[1089px] flex-col gap-12 md:gap-20">
           {/* Dashboard Header */}
           <div className="flex flex-col gap-[10px]">
